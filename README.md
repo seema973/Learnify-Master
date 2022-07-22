@@ -20,6 +20,4 @@
 ![opera_TWUPh9ARnE](https://user-images.githubusercontent.com/93370526/173075223-6ba8b5bf-8b2b-4c8d-b650-3e986ede5ea4.png)
 ![opera_TWUPh9ARnE](https://user-images.githubusercontent.com/93370526/173075087-a4ae8eaa-7290-4175-9035-f73a8b63c031.png)
 
-## 🚀 About Me
-I'm **[Avnish Kumar Paliwal](https://avnish12345678.github.io/PortFolio/)**, currently an undergraduate student at Delhi Technological University(DTU).Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development.
 
